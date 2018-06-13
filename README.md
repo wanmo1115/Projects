@@ -1,6 +1,8 @@
 # Projects
 Here is the list of some of the data analysis projects I have accomplished: 
 
+Click the projects to look into the ouputs of the specific project. Some Python Notebook are too large, please reload it if it did not shows.
+
 Project Name | Tools & Platform | Output
 --- | --- | ---
 Chicago Crisis analysis | SQL, Python  |  Python Notebook, Powerpoint Report
